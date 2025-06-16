@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shomalik Davlatov</h1>
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shomalikdavlatov&label=Profile%20views&color=0e75b6&style=flat" alt="shomalikdavlatov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shomalikdavlatov&label=Profile%20views&color=0e75b6&style=flat" alt="shomalikdavlatov" />&ThickSpace;<a href="https://wakatime.com/@84830cd2-d22d-48e3-b67f-3b8cf08b7d31"><img src="https://wakatime.com/badge/user/84830cd2-d22d-48e3-b67f-3b8cf08b7d31.svg" alt="Total time coded since Sep 25 2023" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shomalikdavlatov" alt="shomalikdavlatov" /></a> </p>
 
