@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shomalikdavlatov&label=Profile%20views&color=0e75b6&style=flat" alt="shomalikdavlatov" />&ThickSpace;<a href="https://wakatime.com/@84830cd2-d22d-48e3-b67f-3b8cf08b7d31"><img src="https://wakatime.com/badge/user/84830cd2-d22d-48e3-b67f-3b8cf08b7d31.svg" alt="Total time coded since Sep 25 2023" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shomalikdavlatov" alt="shomalikdavlatov" /></a> </p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shomalikdavlatov&" alt="shomalikdavlatov" />
 
-- 🔭 I’m currently working on [YouTube](https://github.com/shomalikdavlatov/YouTube)
+- 🔭 I’m currently working on [Trackify](https://github.com/shomalikdavlatov/Trackify)
 
 - 🌱 I’m currently learning **NestJs**
 
@@ -35,8 +36,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shomalikdan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shomalikdan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shomalikdavlatov&show_icons=true&locale=en&layout=compact" alt="shomalikdavlatov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shomalikdavlatov&show_icons=true&locale=en" alt="shomalikdavlatov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shomalikdavlatov&" alt="shomalikdavlatov" /></p>
